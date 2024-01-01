@@ -52,7 +52,5 @@ fun main() {
     println(solarSystem[2])
     println(solarSystem.get(2))
 
-
-
 }
 
